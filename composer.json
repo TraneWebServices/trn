@@ -1,0 +1,11 @@
+{
+    "name": "trn/trn",
+    "type": "project",
+    "description": "The TRN namespace",
+    "authors": [
+        {
+            "name": "Custură Laurențiu",
+            "email": "mail@custura.de"
+        }
+    ]
+}
